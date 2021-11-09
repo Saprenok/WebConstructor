@@ -2,7 +2,7 @@
 
 /**
  * порядок вызова форм, модулей
- * PHP version 5.5
+ * PHP version 5.5 1
  * @category Yii
  * @author    Charnou Vitaliy <graffov87@gmail.com>
  */
